@@ -12,3 +12,23 @@ Payment info / discounts
 Charge once items are in basket
 Delivery / pickup
 Show time estimate
+
+
+Accounts
+  Personal info: saves address, name, and account info
+  Payment info: saves multiple cards and stores giftcard balance
+Stores
+  Shows closest stores
+Items
+  Search button
+  Sorting buttons
+  If not at particular store, show next closest available
+Cart
+  Show all items selected
+  Option to modify cart
+  Option to decide what happens if item isn't available
+  Decide how to pay
+Pickup/Delivery 
+  Choose time
+  Show time estimate until ready
+  
